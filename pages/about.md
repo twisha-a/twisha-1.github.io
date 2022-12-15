@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 1
 ---
 
 # **About Me**
@@ -25,7 +25,3 @@ Sem 1: 8.75 | Sem 2: 8.90 | Sem 3: 9.33 | Sem 4: 9.15 | Sem 5: 9.23 | Sem 6: 8.8
 1. DeepFake
 1. Women In Engineering
 1. Dark Matter in AI
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
