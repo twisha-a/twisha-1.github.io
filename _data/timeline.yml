@@ -1,0 +1,25 @@
+- title: Intern, Tvatsr Cloud PVT LTD
+  from: August 2021
+  to: November 2021
+  description: >-
+          • <b>Fast Document classification in object storages using ML</b><br>
+          • Converting document to .txt format using tika-python; applying TFIDF(NLP) to get a
+          vector format of each word and train the class classifier - support vector machines
+          (Unsupervised ML) for document classification in data protection.<br>
+          • Collected data for AIOps bot.
+
+- title: Intern, Optum Global Solutions (India) Pvt. Ltd
+  from: 6 June 2022
+  to: 6 August 2022
+  description: >-
+              • <b>Provider Duplicate Detection using ML</b><br>
+              • For detecting duplicate data through fuzzylogic on the database and then performing
+                manual combine or automatic combine.
+
+- title: Research Intern, IIT Patna
+  from: 10 August 2022
+  to: 10 October 2022
+  description: >-
+              • <b>Capsule Networks for Predicting Traffic Load on Base Station Cells</b><br>
+              • Worked on Capsule network architectures on both Discriminator and generator and
+              achieved an inception score of 4.59. I completed this project under Dr Preetam Kumar. 
