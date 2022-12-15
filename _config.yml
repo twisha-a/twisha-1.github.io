@@ -2,7 +2,7 @@
 title               : Twisha Sahay
 description         : >-
                       Deep Learning and Machine Learning Enthusiast | Student at SRM University
-baseurl             : "/twisha-sahay"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ""     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Twisha Sahay
-  image             : static/profile.jpeg
+  image             : assets/profile.jpeg
   github            : twisha-a
   email             : twishasahay@gmail.com
   linkedin          : twishaa-sahay-19952518b

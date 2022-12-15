@@ -19,10 +19,12 @@ masters in Computer Science to gain knowledge and skill sets to attain jobs in t
 **B.Tech**: Pursuing Computer Science Engineering (Passing out in 2023)  
 Sem 1: 8.75 | Sem 2: 8.90 | Sem 3: 9.33 | Sem 4: 9.15 | Sem 5: 9.23 | Sem 6: 8.84 || OVERALL CGPA: 9.03
 
-<!-- <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div> -->
+## Research interests
+
+1. DL-controlled Autonomous driving
+1. DeepFake
+1. Women In Engineering
+1. Dark Matter in AI
 
 <div class="row">
 {% include about/timeline.html %}
