@@ -8,7 +8,7 @@ weight: 1
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-A Machine Learning enthusiast with experience in two internships and self-projects. Deep Learning
+A Machine Learning enthusiast with experience in two internships, research papers and self-projects. Deep Learning
 has interested me so I have invested my time in building my concepts from neural networks to how
 to execute and understand Deep Learning Architectures in both CNN and NLP. I plan to pursue a
 masters in Computer Science to gain knowledge and skill sets to attain jobs in this field.
