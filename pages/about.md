@@ -21,7 +21,8 @@ Sem 1: 8.75 | Sem 2: 8.90 | Sem 3: 9.33 | Sem 4: 9.15 | Sem 5: 9.23 | Sem 6: 8.8
 
 ## Research interests
 
-1. DL-controlled Autonomous driving
-1. DeepFake
-1. Women In Engineering
-1. Dark Matter in AI
+1. AI in Medical Imaging
+2. DL-controlled Autonomous driving
+4. DeepFake
+5. Women In Engineering
+6. Dark Matter in AI
