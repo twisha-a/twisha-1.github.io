@@ -16,11 +16,12 @@ masters in Computer Science to gain knowledge and skill sets to attain jobs in t
 
 ## Research interests
 
-1. **AI in Medical Imaging** - image segmentation and classification is an important step for detection and idnetification of medical images. I have recently written a paper - "The Current Developments as well as Long-Term Prospects for Deep Learning across Biomedical Applications"
-2. DL-controlled Autonomous driving
-4. DeepFake
-5. Women In Engineering
-6. Dark Matter in AI
+1. **AI in Medical Imaging** - image segmentation and classification is an important step for detection and idnetification of medical images. I have recently written a paper - "The Current Developments as well as Long-Term Prospects for Deep Learning across Biomedical Applications". this paper discusses the bio-imaging of DNA, proteins, calles and tisuues.
+
+2. **DL-controlled Autonomous driving**
+4. **DeepFake**
+5. **Women In Engineering**
+6. **Dark Matter in AI**
 
 
 ## Education
