@@ -13,11 +13,6 @@ has interested me so I have invested my time in building my concepts from neural
 to execute and understand Deep Learning Architectures in both CNN and NLP. I plan to pursue a
 masters in Computer Science to gain knowledge and skill sets to attain jobs in this field.
 
-## Education
-
-**SRM Institute of Science and Technology**, KTR, Chennai, India - July 2019 – PRESENT  
-**B.Tech**: Pursuing Computer Science Engineering (Passing out in 2023)  
-Sem 1: 8.75 | Sem 2: 8.90 | Sem 3: 9.33 | Sem 4: 9.15 | Sem 5: 9.23 | Sem 6: 8.84 || OVERALL CGPA: 9.03
 
 ## Research interests
 
@@ -26,3 +21,10 @@ Sem 1: 8.75 | Sem 2: 8.90 | Sem 3: 9.33 | Sem 4: 9.15 | Sem 5: 9.23 | Sem 6: 8.8
 4. DeepFake
 5. Women In Engineering
 6. Dark Matter in AI
+
+
+## Education
+
+**SRM Institute of Science and Technology**, KTR, Chennai, India - July 2019 – PRESENT  
+**B.Tech**: Pursuing Computer Science Engineering (Passing out in 2023)  
+Sem 1: 8.75 | Sem 2: 8.90 | Sem 3: 9.33 | Sem 4: 9.15 | Sem 5: 9.23 | Sem 6: 8.84 || OVERALL CGPA: 9.03
