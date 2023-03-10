@@ -21,7 +21,7 @@ Sem 1: 8.75 | Sem 2: 8.90 | Sem 3: 9.33 | Sem 4: 9.15 | Sem 5: 9.23 | Sem 6: 8.8
 
 ## Research interests
 
-1. AI in Medical Imaging
+1. **AI in Medical Imaging** - image segmentation and classification is an important step for detection and idnetification of medical images. I have recently written a paper - "The Current Developments as well as Long-Term Prospects for Deep Learning across Biomedical Applications"
 2. DL-controlled Autonomous driving
 4. DeepFake
 5. Women In Engineering
